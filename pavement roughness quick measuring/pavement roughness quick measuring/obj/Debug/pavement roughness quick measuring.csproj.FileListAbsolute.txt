@@ -1,0 +1,33 @@
+c:\users\wudifei\documents\visual studio 2012\Projects\pavement roughness quick measuring\pavement roughness quick measuring\bin\Debug\pavement roughness quick measuring.exe.config
+C:\Users\wudifei\documents\visual studio 2012\Projects\pavement roughness quick measuring\pavement roughness quick measuring\obj\Debug\pavement roughness quick measuring.csprojResolveAssemblyReference.cache
+C:\Users\wudifei\documents\visual studio 2012\Projects\pavement roughness quick measuring\pavement roughness quick measuring\obj\Debug\pavement_roughness_quick_measuring.AccSetting.resources
+C:\Users\wudifei\documents\visual studio 2012\Projects\pavement roughness quick measuring\pavement roughness quick measuring\obj\Debug\pavement_roughness_quick_measuring.Form1.resources
+C:\Users\wudifei\documents\visual studio 2012\Projects\pavement roughness quick measuring\pavement roughness quick measuring\obj\Debug\pavement_roughness_quick_measuring.Properties.Resources.resources
+C:\Users\wudifei\documents\visual studio 2012\Projects\pavement roughness quick measuring\pavement roughness quick measuring\obj\Debug\pavement roughness quick measuring.csproj.GenerateResource.Cache
+C:\Users\wudifei\documents\visual studio 2012\Projects\pavement roughness quick measuring\pavement roughness quick measuring\bin\Debug\pavement roughness quick measuring.exe
+C:\Users\wudifei\documents\visual studio 2012\Projects\pavement roughness quick measuring\pavement roughness quick measuring\bin\Debug\pavement roughness quick measuring.pdb
+C:\Users\wudifei\documents\visual studio 2012\Projects\pavement roughness quick measuring\pavement roughness quick measuring\obj\Debug\pavement roughness quick measuring.exe
+C:\Users\wudifei\documents\visual studio 2012\Projects\pavement roughness quick measuring\pavement roughness quick measuring\obj\Debug\pavement roughness quick measuring.pdb
+C:\Users\ZG_PZD\Desktop\pavement roughness quick measuring\pavement roughness quick measuring\bin\Debug\pavement roughness quick measuring.exe.config
+C:\Users\ZG_PZD\Desktop\pavement roughness quick measuring\pavement roughness quick measuring\obj\Debug\pavement roughness quick measuring.exe
+C:\Users\ZG_PZD\Desktop\pavement roughness quick measuring\pavement roughness quick measuring\obj\Debug\pavement roughness quick measuring.pdb
+C:\Users\ZG_PZD\Desktop\pavement roughness quick measuring\pavement roughness quick measuring\bin\Debug\pavement roughness quick measuring.exe
+C:\Users\ZG_PZD\Desktop\pavement roughness quick measuring\pavement roughness quick measuring\bin\Debug\pavement roughness quick measuring.pdb
+C:\Users\ZG_PZD\Desktop\pavement roughness quick measuring\pavement roughness quick measuring\obj\Debug\pavement roughness quick measuring.csprojResolveAssemblyReference.cache
+C:\Users\ZG_PZD\Desktop\pavement roughness quick measuring\pavement roughness quick measuring\obj\Debug\pavement_roughness_quick_measuring.AccSetting.resources
+C:\Users\ZG_PZD\Desktop\pavement roughness quick measuring\pavement roughness quick measuring\obj\Debug\pavement_roughness_quick_measuring.Form1.resources
+C:\Users\ZG_PZD\Desktop\pavement roughness quick measuring\pavement roughness quick measuring\obj\Debug\pavement_roughness_quick_measuring.Properties.Resources.resources
+C:\Users\ZG_PZD\Desktop\pavement roughness quick measuring\pavement roughness quick measuring\obj\Debug\pavement roughness quick measuring.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\pavement roughness quick measuring\pavement roughness quick measuring\bin\Debug\pavement roughness quick measuring.exe.config
+C:\Users\USER\Desktop\pavement roughness quick measuring\pavement roughness quick measuring\obj\Debug\pavement roughness quick measuring.exe
+C:\Users\USER\Desktop\pavement roughness quick measuring\pavement roughness quick measuring\obj\Debug\pavement roughness quick measuring.pdb
+C:\Users\USER\Desktop\pavement roughness quick measuring\pavement roughness quick measuring\bin\Debug\pavement roughness quick measuring.exe
+C:\Users\USER\Desktop\pavement roughness quick measuring\pavement roughness quick measuring\bin\Debug\pavement roughness quick measuring.pdb
+C:\Users\USER\Desktop\pavement roughness quick measuring\pavement roughness quick measuring\obj\Debug\pavement roughness quick measuring.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\pavement roughness quick measuring\pavement roughness quick measuring\obj\Debug\pavement_roughness_quick_measuring.AccSetting.resources
+C:\Users\USER\Desktop\pavement roughness quick measuring\pavement roughness quick measuring\obj\Debug\pavement_roughness_quick_measuring.Form1.resources
+C:\Users\USER\Desktop\pavement roughness quick measuring\pavement roughness quick measuring\obj\Debug\pavement_roughness_quick_measuring.Properties.Resources.resources
+C:\Users\USER\Desktop\pavement roughness quick measuring\pavement roughness quick measuring\obj\Debug\pavement roughness quick measuring.csproj.GenerateResource.Cache
+C:\Users\wudifei\Documents\Visual Studio 2012\Projects\pavement roughness quick measuring\pavement roughness quick measuring\obj\Debug\pavement_roughness_quick_measuring.MysqlSetForm.resources
+C:\Users\USER\Desktop\pavement roughness quick measuring\pavement roughness quick measuring\obj\Debug\pavement_roughness_quick_measuring.MysqlSetForm.resources
+C:\Users\wudifei\documents\visual studio 2012\Projects\pavement roughness quick measuring\pavement roughness quick measuring\obj\Debug\pavement_roughness_quick_measuring.ModelSetting.resources
